@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋,
 
 I'm an AI Enthusiast, Software Engineer and Graphics Designer.
 
@@ -17,12 +17,13 @@ Also Interested in:
 You can reach me at: lewissafari254@gmail.com 
 
 
+![icons8-twitter-30](https://user-images.githubusercontent.com/39191404/172035950-bb4fd861-2382-4f7c-a9ce-54a8a04eab43.png)[1]
 
-![icons8-instagram-24](https://instagram.com/safarilewis)
+![icons8-instagram-24](https://user-images.githubusercontent.com/39191404/172035952-431f0d8c-306a-4e4c-8280-620cae53cab9.png)[2]
 
-![icons8-twitter-30](https://twitter.com/safarilewis)
+[1]: https://twitter.com/safarilewis
 
-
+[2]: https://instagram.com/safarilewis
 <!--
 **safarilewis/safarilewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
