@@ -1,4 +1,20 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm an AI Enthusiast, Software Engineer and Graphics Designer.
+
+Technologies:
+- C, Python
+- React-native, Javascript
+- Adobe Photoshop, Adobe Illustrator
+
+Also Interested in:
+- Philosophy
+- Psychology
+- Reading
+- Community Advancement
+
+You can reach me at: lewissafari254@gmail.com 
+[https://twitter.com/safarilewis]
 
 <!--
 **safarilewis/safarilewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
