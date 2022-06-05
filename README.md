@@ -18,12 +18,10 @@ You can reach me at: lewissafari254@gmail.com
 
 
 
-![icons8-instagram-24](https://user-images.githubusercontent.com/39191404/172035813-8c159d3b-eef1-482b-bc8f-d90b19c6ae2e.png)
+![icons8-instagram-24](https://instagram.com/safarilewis)
 
-![icons8-twitter-30](https://user-images.githubusercontent.com/39191404/172035815-1316962d-c135-4013-8834-550c737b7d92.png)
+![icons8-twitter-30](https://twitter.com/safarilewis)
 
-[1]: https://instagram.com/safarilewis
-[2]: https://twitter.com/safarilewis
 
 <!--
 **safarilewis/safarilewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
