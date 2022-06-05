@@ -14,7 +14,10 @@ Also Interested in:
 - Community Advancement
 
 You can reach me at: lewissafari254@gmail.com 
+
 [https://twitter.com/safarilewis]
+[![icons8-instagram-96](https://user-images.githubusercontent.com/39191404/172035721-8f17c656-1138-445b-9615-edebb214a964.png)
+
 
 <!--
 **safarilewis/safarilewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
