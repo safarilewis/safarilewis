@@ -8,6 +8,7 @@ Technologies:
 - Adobe Photoshop, Adobe Illustrator
 
 Also Interested in:
+
 - Philosophy
 - Psychology
 - Reading
@@ -15,8 +16,9 @@ Also Interested in:
 
 You can reach me at: lewissafari254@gmail.com 
 
-[https://twitter.com/safarilewis]
-[![icons8-instagram-96](https://user-images.githubusercontent.com/39191404/172035721-8f17c656-1138-445b-9615-edebb214a964.png)
+[icons8-twitter-30](https://twitter.com/safarilewis)
+
+[![icons8-instagram-96](https://instagram.com/safarilewis)
 
 
 <!--
