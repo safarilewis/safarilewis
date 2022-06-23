@@ -1,6 +1,6 @@
 # Hi there 👋,
 
-I'm an AI Enthusiast, Software Engineer and Graphics Designer.
+I'm an AI Enthusiast, Junior Software Engineer and Graphics Designer.
 
 Technologies:
 - C, Python
@@ -12,7 +12,7 @@ Also Interested in:
 - Philosophy
 - Psychology
 - Reading
-- Community Advancement
+- Innovation
 
 You can reach me at: lewissafari254@gmail.com 
 
