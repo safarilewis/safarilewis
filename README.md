@@ -1,6 +1,6 @@
 # Hi there 👋,
 
-I'm an AI Enthusiast, Junior Software Engineer and Graphics Designer.
+I'm an AI Enthusiast, Junior Software Engineer and Graphics Designer.\n
 MBTI Personality: ENTP
 
 Technologies:
