@@ -7,7 +7,10 @@ MBTI Personality: ENTP
 Technologies:
 - C, Python
 - React-native, Javascript
+- Linux, UNIX
 - Adobe Photoshop, Adobe Illustrator
+
+## I am currently learning FullStack Software Engineering
 
 Also Interested in:
 
