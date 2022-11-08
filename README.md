@@ -16,6 +16,8 @@ Also Interested in:
 - Psychology
 - Reading
 - Innovation
+- DevOps
+
 
 You can reach me at: lewissafari254@gmail.com 
 
