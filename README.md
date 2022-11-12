@@ -21,7 +21,7 @@ Also Interested in:
 
 You can reach me at: lewissafari254@gmail.com 
 
-Twitter: [![icons8-twitter-30](https://user-images.githubusercontent.com/39191404/172035950-bb4fd861-2382-4f7c-a9ce-54a8a04eab43.png)][1]   Instagram: [![icons8-instagram-30](https://user-images.githubusercontent.com/39191404/172036177-d2997758-b976-4ee3-af25-9dc699a3a700.png)][2]
+Twitter:[![icons8-twitter-30](https://user-images.githubusercontent.com/39191404/172035950-bb4fd861-2382-4f7c-a9ce-54a8a04eab43.png)][1]   Instagram: [![icons8-instagram-30](https://user-images.githubusercontent.com/39191404/172036177-d2997758-b976-4ee3-af25-9dc699a3a700.png)][2]
 
 
 
