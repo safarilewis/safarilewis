@@ -1,44 +1,28 @@
-# Hi there 👋,
+<h1 align="center">Hey, I'm Safari 👋</h1>
 
-I'm an AI Enthusiast, Software Engineer and Graphics Designer.
+<p align="center">
+  CS & Physics @ <strong>Minerva University</strong> &nbsp;·&nbsp; Building <strong>Mealcrest</strong> 🍽️ &nbsp;·&nbsp; SF & Nairobi
+</p>
 
-MBTI Personality: ENTP
+---
 
-Technologies:
-- C, Python
-- React-native, Javascript
-- Linux, UNIX
-- Adobe Photoshop, Adobe Illustrator
+### About Me
 
-Also Interested in:
+I'm a student and developer interested in the intersection of technology, community, and culture. When I'm not studying CS and Physics, I'm shipping product at **Mealcrest** — a restaurant discovery and community platform — and exploring how AI can power smarter knowledge tools.
 
-- Philosophy
-- Psychology
-- Reading
-- Innovation
-- DevOps
+- 🌍 Split between San Francisco and Nairobi
+- 🍽️ Co-founder of **Mealcrest** — connecting people through food experiences
+- 📚 Business books, and self-improvement
 
+---
 
-You can reach me at: lewissafari254@gmail.com 
+### Tech Stack
 
-Twitter: [![icons8-twitter-30](https://user-images.githubusercontent.com/39191404/172035950-bb4fd861-2382-4f7c-a9ce-54a8a04eab43.png)][1]   Instagram: [![icons8-instagram-30](https://user-images.githubusercontent.com/39191404/172036177-d2997758-b976-4ee3-af25-9dc699a3a700.png)][2]
-
-
-
-[1]: https://twitter.com/safarilewis
-[2]: https://instagram.com/safarilewis
-
-<!--
-**safarilewis/safarilewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
