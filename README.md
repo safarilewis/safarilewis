@@ -11,7 +11,6 @@
 I'm a student and developer interested in the intersection of technology, community, and culture. When I'm not studying CS and Physics, I'm shipping product at **Mealcrest** — a restaurant discovery and community platform — and exploring how AI can power smarter knowledge tools.
 
 - 🌍 Split between San Francisco and Nairobi
-- 🍽️ Co-founder of **Mealcrest** — connecting people through food experiences
 - 📚 Business books, and self-improvement
 
 ---
