@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Safari 👋</h1>
 
 <p align="center">
-  CS & Physics @ <strong>Minerva University</strong> &nbsp;·&nbsp; Building <strong>Mealcrest</strong> 🍽️ &nbsp;·&nbsp; SF & Nairobi
+  CS & Finance @ <strong>Minerva University</strong> &nbsp;·&nbsp; Building <strong>Mealcrest</strong> 🍽️ &nbsp;·&nbsp; SF & Nairobi
 </p>
 
 ---
